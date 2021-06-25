@@ -1,2 +1,2 @@
-# DigitalClock2
-This is a Digital Analog clock I created. 
+# Ditigal-clock-javaScipt.-
+ First Coding project. 
